@@ -1,6 +1,6 @@
 ## Try it
 
-[https://my-json-server.typicode.com/carlosroblessimple-api-mock](https://my-json-server.typicode.com/carlosroblessimple-api-mock)
+[https://my-json-server.typicode.com/carlosrobles/simple-api-mock](https://my-json-server.typicode.com/carlosrobles/simple-api-mock)
 
 ## Use your own data
 
